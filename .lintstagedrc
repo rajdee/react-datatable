@@ -1,0 +1,10 @@
+{
+    "*.js": [
+        "stylelint",
+        "eslint",
+        "git add"
+    ],
+    "*.test.js": [
+        "yarn test"
+    ]
+}

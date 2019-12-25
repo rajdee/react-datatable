@@ -1,0 +1,8 @@
+.git
+/build/**
+/dist/**
+/public/**
+/coverage/**
+/docs/**
+node_modules/*
+!.eslintrc.js
